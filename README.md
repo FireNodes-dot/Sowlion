@@ -241,6 +241,12 @@ By default everything lives in your OS data folder under `SpectraLauncher` (e.g.
 
 ---
 
+## License
+
+Spectra Launcher is licensed under the [GNU Affero General Public License v3.0](LICENCE) (AGPL-3.0-only).
+
+---
+
 <div align="center">
   <sub>Made with ❤️ by <strong>MakotoPD</strong> · Spectra Launcher</sub>
 </div>
